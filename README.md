@@ -6,7 +6,7 @@ I specialize in making web application.
 
 I am most skilled and comfortable using JavaScript, Typescript.
 
-My technical blog can be found here ↓↓
+My technical blog is here ↓↓
 
 https://gitpress.io/@fukke0906/
 
