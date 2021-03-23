@@ -6,8 +6,18 @@ I specialize in making web application.
 
 I am most skilled and comfortable using JavaScript, Typescript.
 
-My technical blog is here ↓↓
 
-https://gitpress.io/@fukke0906/
+My Technical blog is here ↓↓
+
+🚀 https://gitpress.io/@fukke0906/
 
 
+My Products link ↓↓
+
+😺 ねこカメラ: https://github.com/FukeKazki/CatCameraClient 🏆🏆
+
+😻 かわりに伝えるねこ: https://github.com/FukeKazki/AnonymousBot 🏆
+
+😹 推しマス: https://github.com/FukeKazki/osimasu
+
+😼 高専祭3i入退場管理システム: https://github.com/FukeKazki/3i-entry-exit-server 🏆
