@@ -21,3 +21,5 @@ My Products link ↓↓
 😹 推しマス: https://github.com/FukeKazki/osimasu
 
 😼 高専祭3i入退場管理システム: https://github.com/FukeKazki/3i-entry-exit-server 🏆
+
+😽 発車時刻BOT: https://github.com/FukeKazki/DepratureTimeBot
