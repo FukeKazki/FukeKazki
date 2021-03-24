@@ -7,12 +7,12 @@ I specialize in making web application.
 I am most skilled and comfortable using JavaScript, Typescript.
 
 
-My Technical blog is here ↓↓
+### My Technical blog is here ↓↓
 
 🚀 https://gitpress.io/@fukke0906/
 
 
-My Products link ↓↓
+### My Products link ↓↓
 
 😺 ねこカメラ: https://github.com/FukeKazki/CatCameraClient 🏆🏆
 
@@ -25,20 +25,20 @@ My Products link ↓↓
 😽 発車時刻BOT: https://github.com/FukeKazki/DepratureTimeBot
 
 
-Technology Stack ↓↓
+### Technology Stack ↓↓
 
-🚀 Web Frontend
+🚀 Web Frontend  
 HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Gatsby.js
 
-🚀 iOS
+🚀 iOS  
 ReactNative
 
-🚀 Backend
+🚀 Backend  
 Node.js, Java, Python
 
-🚀 Other
+🚀 Other  
 RaspberryPi, C, C++
 
-🚀 Database
+🚀 Database  
 MySQL, PostgreSQL, Firestore
 
