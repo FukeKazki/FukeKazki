@@ -1,15 +1,17 @@
 Hello everyone!🚀
 
-I am Fourth year College of Technology student.
+I am Fifth year College of Technology student.
 
 I specialize in making web application.
 
 I am most skilled and comfortable using JavaScript, Typescript.
 
 
-### My Technical blog is here ↓↓
+### My Technical articles ↓↓
 
-🚀 https://gitpress.io/@fukke0906/
+🚀 個人ブログ: https://gitpress.io/@fukke0906/ ⭐
+
+🚀 Qiita: https://qiita.com/fukke0906
 
 
 ### My Products link ↓↓
