@@ -28,7 +28,9 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 ### Contribute ↓↓
 ♨️ onsen*: https://on-sen.jp  
+
 👱🏻‍♀️ actors: https://actors.page  
+
 🌍 Geo3x3: https://github.com/taisukef/Geo3x3
 
 ### Technology Stack ↓↓
