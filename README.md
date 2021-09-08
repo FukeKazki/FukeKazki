@@ -27,8 +27,8 @@ I am most skilled and comfortable using JavaScript, Typescript.
 😽 発車時刻BOT: https://github.com/FukeKazki/DepratureTimeBot
 
 ### Contribute ↓↓
-♨️ onsen*: https://on-sen.jp
-👱🏻‍♀️ actors: https://actors.page
+♨️ onsen*: https://on-sen.jp  
+👱🏻‍♀️ actors: https://actors.page  
 🌍 Geo3x3: https://github.com/taisukef/Geo3x3
 
 ### Technology Stack ↓↓
