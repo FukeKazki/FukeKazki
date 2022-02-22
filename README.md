@@ -51,7 +51,7 @@ RaspberryPi, C, C++
 🚀 Database  
 MySQL, PostgreSQL, Firestore
 
-🚀 XAAS
+🚀 XAAS  
 FirebaseFunctions, Heroku, Vercel, GatsbyCloud, GitHub Actions
 
 
