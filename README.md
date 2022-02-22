@@ -13,6 +13,14 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 🚀 Qiita: https://qiita.com/fukke0906
 
+### Contribute ↓↓
+♨️ onsen*: https://on-sen.jp  
+
+🦔 topaz: https://topaz.dev
+
+👱🏻‍♀️ actors: https://actors.page  
+
+🌍 Geo3x3: https://github.com/taisukef/Geo3x3
 
 ### My Products link ↓↓
 
@@ -26,17 +34,10 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 😽 発車時刻BOT: https://github.com/FukeKazki/DepratureTimeBot
 
-### Contribute ↓↓
-♨️ onsen*: https://on-sen.jp  
-
-👱🏻‍♀️ actors: https://actors.page  
-
-🌍 Geo3x3: https://github.com/taisukef/Geo3x3
-
 ### Technology Stack ↓↓
 
 🚀 Web Frontend  
-HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Gatsby.js
+HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, GatsbyJS
 
 🚀 iOS  
 ReactNative
@@ -49,4 +50,8 @@ RaspberryPi, C, C++
 
 🚀 Database  
 MySQL, PostgreSQL, Firestore
+
+🚀 XAAS
+FirebaseFunctions, Heroku, Vercel, GatsbyCloud, GitHub Actions
+
 
