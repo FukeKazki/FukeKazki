@@ -1,6 +1,6 @@
 Hello everyone!🚀
 
-I am Fifth year College of Technology student.
+I am Programmer.
 
 I specialize in making web application.
 
