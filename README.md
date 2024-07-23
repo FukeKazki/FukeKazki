@@ -6,52 +6,25 @@ I specialize in making web application.
 
 I am most skilled and comfortable using JavaScript, Typescript.
 
+### Blogs
 
-### My Technical articles ↓↓
+🚀 技術ブログ: https://fukke.cafe
 
-🚀 個人ブログ: https://fukke.cafe ⭐
+🎼 音楽ブログ: https://music.fukke.cafe/
+
+🏖️ いろいろブログ: https://real.fukke.cafe/
+
+📝 お気持ちブログ: https://sizu.me/fukke
 
 🚀 Qiita: https://qiita.com/fukke0906
 
-### Contribute ↓↓
-♨️ onsen*: https://on-sen.jp  
+🚀 Zenn: https://zenn.dev/fukke
 
-🦔 topaz: https://topaz.dev
+### Products
 
-👱🏻‍♀️ actors: https://actors.page  
+🧠 プロンプトマネージャー: https://prompt-manager.fukke.cafe/
 
-🌍 Geo3x3: https://github.com/taisukef/Geo3x3
 
-🦹 whowatch.tv: https://whowatch.tv/
 
-🦸‍♀️ brand.whowatch.tv: https://brand.whowatch.tv/
-
-### My Products link ↓↓
-
-😺 ねこカメラ: https://github.com/FukeKazki/CatCameraClient 🏆🏆
-
-😻 かわりに伝えるねこ: https://github.com/FukeKazki/AnonymousBot 🏆
-
-😽 発車時刻BOT: https://github.com/FukeKazki/DepratureTimeBot
-
-### Technology Stack ↓↓
-
-🚀 Web Frontend  
-HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, GatsbyJS
-
-🚀 iOS  
-ReactNative
-
-🚀 Backend  
-Node.js, Java, Python
-
-🚀 Other  
-RaspberryPi, C, C++
-
-🚀 Database  
-MySQL, PostgreSQL, Firestore
-
-🚀 XAAS  
-FirebaseFunctions, Heroku, Vercel, GatsbyCloud, GitHub Actions
 
 
