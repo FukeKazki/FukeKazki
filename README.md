@@ -12,7 +12,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 🎼 音楽ブログ: https://music.fukke.cafe/
 
-🏖️ いろいろブログ: https://real.fukke.cafe/
+🏖️ ライフスタイルブログ: https://real.fukke.cafe/
 
 📝 お気持ちブログ: https://sizu.me/fukke
 
