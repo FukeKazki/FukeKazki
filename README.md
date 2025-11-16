@@ -19,12 +19,3 @@ I am most skilled and comfortable using JavaScript, Typescript.
 🚀 Qiita: https://qiita.com/fukke0906
 
 🚀 Zenn: https://zenn.dev/fukke
-
-### Products
-
-🧠 プロンプトマネージャー: https://prompt-manager.fukke.cafe/
-
-
-
-
-
