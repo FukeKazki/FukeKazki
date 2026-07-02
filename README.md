@@ -8,11 +8,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 ### Blogs
 
-🚀 技術ブログ: https://fukke.cafe
-
-🎼 音楽ブログ: https://music.fukke.cafe/
-
-🏖️ ライフスタイルブログ: https://real.fukke.cafe/
+🚀 技術ブログ: https://tech.fukke.cafe
 
 📝 お気持ちブログ: https://sizu.me/fukke
 
